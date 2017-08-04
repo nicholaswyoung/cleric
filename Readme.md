@@ -1,5 +1,7 @@
 # Cleric
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/cleric.svg)](https://greenkeeper.io/)
+
 A configuration layer for [Monk](http://github.com/automattic/monk).
 
 ## API
